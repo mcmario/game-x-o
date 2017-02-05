@@ -1,0 +1,44 @@
+.main{
+height: 600px;
+    width: 400px;
+    background: darkgreen;
+}
+.field {
+	height: 100px;
+    width: 100px;
+    background: blue;
+    margin: 10px;
+    float: left;
+    text-align: center;
+    font-size: 80px;
+}
+#rez{
+    margin: 10px;
+    width: 100px;
+}
+#text {
+	text-align: center;
+    font-size: 24pt;
+    font-family: fantasy;
+}
+#text2 {
+	text-align: center;
+    font-size: 24pt;
+    font-family: fantasy;
+    color: royalblue;
+}
+#p1{
+    color: crimson;
+    width: 100px;
+}
+#p2{
+    color: crimson;
+    width: 100px;
+}
+#alert {
+	width: 100px;
+    float: left;
+    position:fixed;
+    top:50px;
+    left: 100px;
+}
